@@ -1,9 +1,5 @@
 # Hi there, I'm Xr-Mob 👋
 
-Welcome to my GitHub!  
-I'm passionate about **reading**, **playing guitar**, and **gaming**.  
-Professionally, I thrive at the intersection of creativity and technology, specializing in immersive experiences and robust application development.
-
 ---
 
 ## 💡 Tagline
