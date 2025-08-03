@@ -5,9 +5,8 @@
 - **XR Development**: Unreal Engine 5, Unity, Maya
 - **Project & Workflow**: Jira, SourceTree, Teams, Outlook
 - **Mobile**: Android Studio, React Native
-- **Web Development**: React.js, Node.js, SQL
-- **Programming Languages**:  
-  Java, Python, C++, C, C#, ASP.NET
+- **Web Development**: Javascript, Typescript, React.js, Node.js, SQL
+- **Programming Languages**:  Java, Python, C++, C, C#, ASP.NET
 
 ---
 
